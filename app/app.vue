@@ -5,7 +5,23 @@ useHead({
     {
       name: 'description',
       content: 'Leonardo Alves, Senior Front-end Engineer Vue | Nuxt | React.'
-    }
+    },
+    {
+      name: 'og:title',
+      content: 'Leonardo Alves — Senior Front-end Engineer'
+    },
+    {
+      name: 'og:description',
+      content: 'Leonardo Alves, Senior Front-end Engineer Vue | Nuxt | React.'
+    },
+    {
+      name: 'og:type',
+      content: 'website'
+    },
+    {
+      name: 'og:image',
+      content: '/me.png'
+    },
   ]
 })
 
